@@ -1,0 +1,40 @@
+.background {
+    background: #14b3ab;
+}
+
+.navbar-brand {
+    font-family: 'Reenie Beanie';
+    font-size: 3em;
+    letter-spacing: 4px;
+}
+
+.social {
+    font-family: "SocialMedia";
+    font-size: 3.5em;
+}
+
+.social a {
+    text-decoration: none;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 1em;
+}
+
+body {
+    font-family: 'Space Grotesk';
+    font-size: 1em;
+}
+
+div.b-bottom {
+    border-bottom: 3px solid grey;
+}
+
+.div-education {
+    transition: all 500ms;
+}
+
+.div-education:hover {
+    border-bottom: 3px solid paleturquoise;
+    width: 100% !important;
+}
