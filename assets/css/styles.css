@@ -1,0 +1,57 @@
+.background {
+    background: #14b3ab;
+    color: white;
+}
+
+.btn {
+    transition: all 300ms;
+}
+
+.btn:hover {
+    background: #14b3ab;
+    color: white;
+    transform: translateY(-3.2px);
+}
+
+.navbar-brand {
+    font-family: 'Reenie Beanie';
+    font-size: 3em;
+    letter-spacing: 4px;
+}
+
+.social {
+    font-family: "SocialMedia";
+    font-size: 3.5em;
+}
+
+.social a {
+    text-decoration: none;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 1em;
+}
+
+body {
+    font-family: 'Space Grotesk';
+    font-size: 1em;
+}
+
+
+.education {
+    transition: all 700ms;
+}
+
+div.b-bottom {
+    border-bottom: 2.5px solid grey;
+    transition: all 700ms;
+    width: 80%;
+}
+
+div.b-bottom:hover {
+    border-bottom: 2.5px solid paleturquoise;
+}
+
+.education:hover {
+    transform: translateX(20px);
+}
